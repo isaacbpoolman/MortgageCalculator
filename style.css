@@ -1,0 +1,63 @@
+/* {
+  border: 1px solid black;
+}*/
+
+#loanamt {
+  text-align: right;
+}
+
+#payment {
+  text-align: right;
+}
+
+#interest {
+  text-align: right;
+}
+
+#enddate {
+  font-size: 16px;
+}
+
+#pmtfreq {
+  float: right;
+}
+
+body {
+  background-color: #7FDBFF;
+}
+
+input {
+  font-size: 14px;
+  display: block;
+  float: right;
+  border-radius: 5px;
+}
+
+select {
+  font-size: 14px;
+}
+
+label {
+  font-size: 16px;
+  color: #111111;
+}
+
+button {
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: #FF851B;
+}
+
+th {
+  font-size: 20px;
+  font-style: oblique;
+}
+
+p {
+  font-size: 16px;
+  font-style: oblique;
+}
+
+table {
+  border: 1px solid #001F3F;
+}
